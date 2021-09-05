@@ -14,3 +14,7 @@ There are two participients in the application:
 3. Admin can change the price of the product at any time.
 
 
+# Purchasing Products
+1. Users can view the products.
+2. Users can place an order in some easy steps.
+3. Users can view the invoice or bill of the complete shopping.
