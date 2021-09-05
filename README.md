@@ -7,3 +7,10 @@ There are two participients in the application:
 1. Admin or the shop owner who can manage his product (Fruits in this case).
 2. Customer who can view the products and place an order to buy them.
 
+
+# Adding New Products
+1. Admin can add, delete or update the available products in the shop.
+2. Admin can view all the transactions.
+3. Admin can change the price of the product at any time.
+
+
